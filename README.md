@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Hang Chen
+- For the 0915 project, you can use Rstudio to run it
+- For other weeks' projects, you can use google colab to run the python code.
 
 
 
